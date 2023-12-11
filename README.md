@@ -11,9 +11,9 @@ This C program implements a flight check-in system that allows users to perform 
 
 ## Initialization
 
-Reads flight information from the flights.txt file.
-This file must be located near to executable.
-Allocates memory based on the aircraft type for registration information.
+- Reads flight information from the flights.txt file.
+- This file must be located near to executable.
+- Allocates memory based on the aircraft type for registration information.
 
 ## Check-In Operations
 
