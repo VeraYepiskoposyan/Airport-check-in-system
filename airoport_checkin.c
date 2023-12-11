@@ -293,8 +293,7 @@ void registarLuggageInfo(luggage_t* pLug, int *pLugCount) {
             pLug[lugCount].width > HAND_LUG_MAX_WIDTH_CM ||
             pLug[lugCount].weight > HAND_LUG_MAX_WEIGHT_KG) {
 
-            printf("Sorry but your handluggage's parametrs are not fit standards, we will consider it as a luggage\n"); //TBD luggage no hand
-
+            printf("Sorry but your handluggage's parametrs are not fit standards, we will consider it as a luggage\n");
             pLug[lugCount].isHand = false;
         }
         else 
@@ -320,7 +319,7 @@ void registarLuggageInfo(luggage_t* pLug, int *pLugCount) {
             pLug[lugCount].width > LUG_MAX_WIDTH_CM ||
             pLug[lugCount].weight > LUG_MAX_WEIGHT_KG) {
 
-            printf("Your checked baggage's parametrs are not fit standards, you have to overpay \n"); //TBD calculate overpay and damp
+            printf("Your checked baggage's parametrs are not fit standards, you have to overpay \n");
            
         }
         pLug[lugCount].isHand = false;
