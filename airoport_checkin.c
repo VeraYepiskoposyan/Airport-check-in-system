@@ -328,7 +328,7 @@ void registarLuggageInfo(luggage_t* pLug, int *pLugCount) {
     *pLugCount = lugCount;
 }
 
-/// This function converts sear format to index
+/// This function converts seat format to index
 /// 
 /// seat    String of seat's format
 /// type    Type of aircraft
