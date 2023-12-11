@@ -1,6 +1,8 @@
-**Airport Check-In System**
+# ProjectS1
 
-**Overview**
+# Airport check-in system
+
+## Overview
 
 This C program implements a flight check-in system that allows users to perform various operations related to flight check-ins, including viewing flight information, checking seat availability, registering passengers, and managing luggage.
 
