@@ -1,0 +1,23 @@
+airline: Wizz
+dest: Larnaca
+fligh_code: FL123
+start_time: 11/26-08:00
+window: 25-28
+aircraft_type: small
+gate: 1
+
+airline: Qatar
+dest: Doha
+fligh_code: QT123
+start_time: 11/26-10:00
+window: 4-13
+aircraft_type: medium
+gate: 3
+
+airline: FlyArna
+dest: Moscow
+fligh_code: G6403
+start_time: 12/05-4:00
+window: 6-10
+aircraft_type: medium
+gate: 8
