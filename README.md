@@ -22,9 +22,9 @@ Allocates memory based on the aircraft type for registration information.
 - View check-in status.
 - Check seat availability.
 - Perform check-in for passengers:
--- Registers personal information.
--- Registers luggage information.
--- Allows manual or automatic selection of seats.
+- Registers personal information.
+- Registers luggage information.
+- Allows manual or automatic selection of seats.
 
 ### Cleanup
 
