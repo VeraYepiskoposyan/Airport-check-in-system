@@ -1,5 +1,3 @@
-# ProjectS1
-
 # Airport check-in system
 
 ## Overview
