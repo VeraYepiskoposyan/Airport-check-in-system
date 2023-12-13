@@ -350,7 +350,7 @@ int seatString2Num(char* seat, int type) {
         seatIndex = seat[2] - 'A';
     }
     else {
-        return 0;
+        return -1;
     }
 
     if(type == AIRCRAFT_TYPE_SMALL) {
